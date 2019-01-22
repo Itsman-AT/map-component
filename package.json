@@ -6,7 +6,7 @@
     "eslint": "^5.6.1",
     "html2canvas": "latest",
     "leaflet": "latest",
-    "leaflet-draw": "^0.4.14",
+    "leaflet-draw": "latest",
     "leaflet-providers": "git://github.com/leaflet-extras/leaflet-providers#master",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
